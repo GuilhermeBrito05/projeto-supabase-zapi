@@ -71,7 +71,7 @@ Passo 1: Clonar o repositório
 
 ```sql
 Bash
-git clone [https://github.com/GuilhermeBrito05/projeto-supabase-zapi.git](https://github.com/GuilhermeBrito/projeto-supabase-zapi.git)
+git clone [https://github.com/GuilhermeBrito05/projeto-supabase-zapi.git](https://github.com/GuilhermeBrito05/projeto-supabase-zapi.git)
 cd projeto-supabase-zapi
 ```
 
